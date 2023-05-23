@@ -1,0 +1,20 @@
+{
+    "name": "Medical Widget Javascript Injector",
+    "description": "Injects the medical widget into any desired webpage",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "PiLabsCrossLogo.png",
+        "icon": "PiLabsCrossLogo.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}

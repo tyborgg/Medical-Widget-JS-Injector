@@ -1,6 +1,7 @@
-# Medical-Widget-JS-Injector
+# Medical Widget JavaScript Injector
 
 <table>
+  <th colspan="2">Example Using The Mayo Clinic Website</th>
   <tr>
     <td>
       <div align="center">
@@ -16,3 +17,7 @@
     </td>
   </tr>
 </table>
+
+### Check out my paper for more details
+> Pastor, T. (2023). A Plug-n-play JavaScript Widget For Annotating Documents With Medical
+Jargon. UC Riverside: University Honors. Retrieved from https://escholarship.org/uc/item/9j99j281
